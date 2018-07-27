@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "HACKED";
+	src: url('../soutenance/font/HACKED.ttf');
+}
+@font-face {
+	font-family: "RazerBlackwidow-Regular";
+	src: url('../soutenance/font/RazerBlackwidow-Regular.ttf');
+}
+
+body {
+    color: rgb(17, 73, 17);
+    background-color: black;
+    font-family: RazerBlackwidow-Regular;
+    font-size: 15px;
+}
+h1 {
+    color: rgb(17, 73, 17);
+    text-align: center;
+    font-family: HACKED;
+    font-size: 60px;
+}
+div#welcom {
+    color: darkslategrey;
+}
